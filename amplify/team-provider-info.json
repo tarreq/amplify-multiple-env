@@ -1,0 +1,19 @@
+{
+    "prod": {
+        "awscloudformation": {
+            "AuthRoleName": "env-one-prod-20191008115050-authRole",
+            "UnauthRoleArn": "arn:aws:iam::306388513607:role/env-one-prod-20191008115050-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::306388513607:role/env-one-prod-20191008115050-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "env-one-prod-20191008115050-deployment",
+            "UnauthRoleName": "env-one-prod-20191008115050-unauthRole",
+            "StackName": "env-one-prod-20191008115050",
+            "StackId": "arn:aws:cloudformation:us-east-2:306388513607:stack/env-one-prod-20191008115050/1c4296c0-e9b1-11e9-8804-02860fd3b864"
+        },
+        "categories": {
+            "auth": {
+                "envone64728d01": {}
+            }
+        }
+    }
+}
